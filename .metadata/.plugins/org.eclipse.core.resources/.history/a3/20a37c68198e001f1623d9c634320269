@@ -1,0 +1,5 @@
+package in.ashokit.client;
+
+public interface WelcomeApiFeignClient {
+
+}

@@ -1,0 +1,8 @@
+package in.ashokit.client;
+
+import org.springframework.cloud.openfeign.FeignClient;
+
+@FeignClient(value="WELCOME-API")
+public interface WelcomeApiFeignClient {
+
+}

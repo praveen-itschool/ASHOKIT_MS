@@ -1,0 +1,2 @@
+spring.application.name=GREET-API
+server.port=8082
